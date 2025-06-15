@@ -1,0 +1,26 @@
+--Admin--
+username : admin
+password : admin123
+
+--Staff Produk--
+username : Budi
+password : Budi123
+
+--Staff Transaksi--
+username : Adi
+password : Adi123
+
+--Staff Supplier--
+username : Roni
+password : Roni123
+
+--Staff Pelanggan--
+username : Ari
+password : Ari123
+
+--Staff Laporan--
+username : Alex
+password : Alex123
+
+#User tidak bisa akses page lainnya, hanya bisa akses sesuai role, kecuali role admin
+#User tidak bisa bypass halaman lain lewat url, kecuali role admin
