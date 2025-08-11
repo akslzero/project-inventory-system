@@ -1,2 +1,2 @@
 # project-inventory-system
-Projek sistem inventori toko menggunakan php dan mysql
+Projek aplikasi website sistem inventori toko menggunakan php dan database mysql
